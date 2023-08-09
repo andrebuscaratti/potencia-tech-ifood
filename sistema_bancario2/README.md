@@ -1,0 +1,4 @@
+# Otimizando o Sistema Bancário
+Neste segundo desafio do Bootcamp Potência Tech, otimizei o sistema bancario desenvolvido anteriormente, transformando os métodos de depositar, sacar e de extrato em funções com os conhecimentos aprendidos nas aulas teóricas. Também adicionei as funções: criar e listar novos clientes e contas bancárias, filtrando os usuários na hora das criações a partir do CPF inserido. 
+
+O desafio possibilitou que fosse praticado o conhecimento adquirido sobre listas, dicionários, positional e keywords além de outras convenções de programação que tornam o código mais limpo, organizado e prático, reaproveitando funções e melhorando a visiblidade do sistema.ss
